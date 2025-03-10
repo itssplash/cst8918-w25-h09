@@ -1,0 +1,11 @@
+# Terraform related files
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
