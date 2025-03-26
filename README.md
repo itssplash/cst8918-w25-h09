@@ -326,12 +326,6 @@ kubectl get services
 
 Use the external IP address of the `store-front` service to access the application in a web browser.
 
-## Submit
-
-Your github repository for this assignment should be named `cst8918-w25-h09`.
-
-When you have completed the assignment, submit the URL of your GitHub repository in the assignment folder on Brightspace.
-
 ## Clean up resources
 
 When you're done with the application, you can clean up the resources you created in your Azure account to avoid incurring more charges.
